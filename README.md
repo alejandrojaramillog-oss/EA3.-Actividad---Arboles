@@ -60,4 +60,4 @@ paso 7 salgo con la opcion 4 ![7](image-10.png)
 
 * [Alejandro Jaramillo Garro]
 
-Muchas gracias
+Muchas gracias.
